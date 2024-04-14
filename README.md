@@ -19,137 +19,137 @@
 <table>
   <tr>
   <td align="center" width="96">
-        <img src="./img/C.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/C.svg" alt="icon" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="./img/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="./img/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/java-icon.svg" alt="icon" width="65" height="65" />
       <br>JAVA
     </td>
         <td align="center" width="96">
-        <img src="./img/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./img/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="./img/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="./img/mongodb.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/mongodb.svg" alt="icon" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="./img/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="./img/Npm-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Npm-Dark.svg" alt="icon" width="65" height="65" />
       <br>npm
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./img/html.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/html.svg" alt="icon" width="65" height="65" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="./img/CSS.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/CSS.svg" alt="icon" width="65" height="65" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="./img/bootstrap.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/bootstrap.svg" alt="icon" width="65" height="65" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="./img/nodejs.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/nodejs.svg" alt="icon" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="./img/express.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/express.svg" alt="icon" width="65" height="65" />
       <br>Express
     </td>
     <td align="center" width="96">
-        <img src="./img/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="./img/restapi-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>REST API
     </td>
     <td align="center" width="96">
-        <img src="./img/MaterialUI-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/MaterialUI-Dark.svg" alt="icon" width="65" height="65" />
       <br>MaterialUI
     </td>
     <td align="center" width="96">
-        <img src="./img/NextJS-Light.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/NextJS-Light.svg" alt="icon" width="65" height="65" />
       <br>NextJS
     </td>
  </tr>
  <tr>
     <td align="center" width="96">
-        <img src="./img/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="./img/Kali-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Kali-Dark.svg" alt="icon" width="65" height="65" />
       <br>Kali
     </td>
     <td align="center" width="96">
-        <img src="./img/Ubuntu-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Ubuntu-Dark.svg" alt="icon" width="65" height="65" />
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-        <img src="./img/Mint-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Mint-Dark.svg" alt="icon" width="65" height="65" />
       <br>LinuxMint
     </td>
     <td align="center" width="96">
-        <img src="./img/Windows-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Windows-Dark.svg" alt="icon" width="65" height="65" />
       <br>Windows
     </td>
     <td align="center" width="96">
-        <img src="./img/Debian-Light.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Debian-Light.svg" alt="icon" width="65" height="65" />
       <br>Debian
     </td>
     <td align="center" width="96">
-        <img src="./img/RedHat-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/RedHat-Dark.svg" alt="icon" width="65" height="65" />
       <br>RedHat
     </td>
     <td align="center" width="96">
-        <img src="./img/Git.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Git.svg" alt="icon" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="./img/GCP-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/GCP-Dark.svg" alt="icon" width="65" height="65" />
       <br>GCP
     </td>
  </tr>
  <tr>
     <td align="center" width="96">
-        <img src="./img/Wordpress.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Wordpress.svg" alt="icon" width="65" height="65" />
       <br>Wordpress
     </td>
     <td align="center" width="96">
-        <img src="./img/Heroku.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Heroku.svg" alt="icon" width="65" height="65" />
       <br>Heroku
     </td>
     <td align="center" width="96">
-        <img src="./img/VSCodium-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/VSCodium-Dark.svg" alt="icon" width="65" height="65" />
       <br>VSCodium
     </td>
     <td align="center" width="96">
-        <img src="./img/Vite-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Vite-Dark.svg" alt="icon" width="65" height="65" />
       <br>Vite
     </td>
     <td align="center" width="96">
-        <img src="./img/Postman.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/Postman.svg" alt="icon" width="65" height="65" />
       <br>Postman
     </td>
  </tr>
