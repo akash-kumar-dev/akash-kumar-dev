@@ -152,5 +152,39 @@
         <img src="./icons/Postman.svg" alt="icon" width="65" height="65" />
       <br>Postman
     </td>
+    <td align="center" width="96">
+        <img src="./icons/aircrack-ng.svg" alt="icon" width="65" height="65" />
+      <br>Aircrack-ng
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/wireshark.svg" alt="icon" width="65" height="65" />
+      <br>wireshark
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/burp.svg" alt="icon" width="65" height="65" />
+      <br>Burpsuite
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/nmap.svg" alt="icon" width="65" height="65" />
+      <br>Nmap
+    </td>
+ </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="./icons/metasploit.svg" alt="icon" width="65" height="65" />
+      <br>Metasploit
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/john.svg" alt="icon" width="65" height="65" />
+      <br>JohnTheRipper
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/gnome.svg" alt="icon" width="65" height="65" />
+      <br>GNOME
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/hydra.svg" alt="icon" width="65" height="65" />
+      <br>Hydra
+    </td>
  </tr>
 </table>
