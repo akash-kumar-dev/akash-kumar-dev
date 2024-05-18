@@ -35,6 +35,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="./icons/php-dark.svg" alt="icon" width="65" height="65" />
+      <br>php
+    </td>
+    <td align="center" width="96">
         <img src="./icons/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
@@ -50,12 +54,12 @@
         <img src="./icons/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+  <td align="center" width="96">
         <img src="./icons/Npm-Dark.svg" alt="icon" width="65" height="65" />
       <br>npm
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="./icons/html.svg" alt="icon" width="65" height="65" />
       <br>HTML
@@ -88,14 +92,14 @@
         <img src="./icons/MaterialUI-Dark.svg" alt="icon" width="65" height="65" />
       <br>MaterialUI
     </td>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+ <td align="center" width="96">
         <img src="./icons/NextJS-Light.svg" alt="icon" width="65" height="65" />
       <br>NextJS
     </td>
- </tr>
- <tr>
     <td align="center" width="96">
-        <img src="./icons/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="./icons/github-dark.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
     <td align="center" width="96">
@@ -126,12 +130,12 @@
         <img src="./icons/Git.svg" alt="icon" width="65" height="65" />
       <br>Git
     </td>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+ <td align="center" width="96">
         <img src="./icons/GCP-Dark.svg" alt="icon" width="65" height="65" />
       <br>GCP
     </td>
- </tr>
- <tr>
     <td align="center" width="96">
         <img src="./icons/Wordpress.svg" alt="icon" width="65" height="65" />
       <br>Wordpress
@@ -164,12 +168,12 @@
         <img src="./icons/burp.svg" alt="icon" width="65" height="65" />
       <br>Burpsuite
     </td>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+ <td align="center" width="96">
         <img src="./icons/nmap.svg" alt="icon" width="65" height="65" />
       <br>Nmap
     </td>
- </tr>
- <tr>
     <td align="center" width="96">
         <img src="./icons/metasploit.svg" alt="icon" width="65" height="65" />
       <br>Metasploit
