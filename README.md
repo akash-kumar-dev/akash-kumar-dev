@@ -1,7 +1,7 @@
 <br><br><h1 align="center">Hey there, I'm Akash Kumar </h1>
 <p></p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&random=false&width=435&lines=SoftwareDev.+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&random=false&width=500&lines=Software+Dev.+and+Cybersecurity+Enthusiast" alt="Typing SVG"/>
 </p>
 
 ***
@@ -205,8 +205,9 @@
 
 <div style="display: flex; flex-wrap: wrap; width: 100%; margin: 2%; auto;">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-kumar-dev&theme=monokai" alt="Stats" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-kumar-dev&theme=monokai" alt="Stats" width="49%">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-kumar-dev&theme=monokai&utcOffset=5.30" alt="Commits-Stats" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-kumar-dev&theme=monokai&utcOffset=5.30" alt="Commits-Stats" width="49%">
 
 </div>
+
