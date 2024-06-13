@@ -1,13 +1,13 @@
 <br><br><h1 align="center">Hey there, I'm Akash Kumar </h1>
 <p></p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&random=false&width=435&lines=Cybersecurity+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&random=false&width=435&lines=SoftwareDev.+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 ***
 ## About Me:
 
-2nd year Engineering student with a passion for CS, IT, and especially cybersecurity. I've honed my skills in the MERN stack and actively explore diverse technologies. In cybersecurity, I'm well-versed in Nmap, Wireshark, Burp Suite, and various pentesting tools. A big fan of the Linux kernel, particularly Kali Linux.
+3rd year Engineering student with a passion for CS, IT, and especially cybersecurity. I've honed my skills in the MERN stack and actively explore diverse technologies. In cybersecurity, I'm well-versed in Nmap, Wireshark, Burp Suite, and various pentesting tools. A big fan of the Linux kernel, particularly Kali Linux.
 
 
 ***
@@ -57,6 +57,10 @@
   </tr>
   <tr>
   <td align="center" width="96">
+        <img src="./icons/laveral-dark.svg" alt="icon" width="65" height="65" />
+      <br>Laravel
+    </td>
+  <td align="center" width="96">
         <img src="./icons/Npm-Dark.svg" alt="icon" width="65" height="65" />
       <br>npm
     </td>
@@ -77,7 +81,7 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="./icons/express.svg" alt="icon" width="65" height="65" />
+        <img src="https://expressjs.com/images/favicon.png" alt="icon" width="65" height="65" />
       <br>Express
     </td>
     <td align="center" width="96">
@@ -88,12 +92,12 @@
         <img src="./icons/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>REST API
     </td>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+ <td align="center" width="96">
         <img src="./icons/MaterialUI-Dark.svg" alt="icon" width="65" height="65" />
       <br>MaterialUI
     </td>
- </tr>
- <tr>
  <td align="center" width="96">
         <img src="./icons/NextJS-Light.svg" alt="icon" width="65" height="65" />
       <br>NextJS
@@ -126,12 +130,12 @@
         <img src="./icons/RedHat-Dark.svg" alt="icon" width="65" height="65" />
       <br>RedHat
     </td>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+ <td align="center" width="96">
         <img src="./icons/Git.svg" alt="icon" width="65" height="65" />
       <br>Git
     </td>
- </tr>
- <tr>
  <td align="center" width="96">
         <img src="./icons/GCP-Dark.svg" alt="icon" width="65" height="65" />
       <br>GCP
@@ -156,7 +160,9 @@
         <img src="./icons/Postman.svg" alt="icon" width="65" height="65" />
       <br>Postman
     </td>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+  <td align="center" width="96">
         <img src="./icons/aircrack-ng.svg" alt="icon" width="65" height="65" />
       <br>Aircrack-ng
     </td>
@@ -168,8 +174,6 @@
         <img src="./icons/burp.svg" alt="icon" width="65" height="65" />
       <br>Burpsuite
     </td>
- </tr>
- <tr>
  <td align="center" width="96">
         <img src="./icons/nmap.svg" alt="icon" width="65" height="65" />
       <br>Nmap
@@ -192,3 +196,17 @@
     </td>
  </tr>
 </table>
+
+<div>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kumar-dev&theme=monokai" alt="analatics" width="100%" height="100%">
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; width: 100%; margin: 2%; auto;">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-kumar-dev&theme=monokai" alt="Stats" width="50%">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-kumar-dev&theme=monokai&utcOffset=5.30" alt="Commits-Stats" width="50%">
+
+</div>
