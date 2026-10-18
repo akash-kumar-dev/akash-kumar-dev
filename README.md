@@ -2,7 +2,7 @@
 <br><br><h1 align="center">Hey there, I'm Akash Kumar </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Web3%2FBlockchain+Developer;Open+Source+Contributor;Backend+Developer;DevOps+Enthusiast;Cybersecurity+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Aspiring+Software+Developer;Web3%2FBlockchain+Developer;Open+Source+Contributor;Backend+Developer;DevOps+Enthusiast;Cybersecurity+Enthusiast" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,18 +19,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-***
-## 👋 About Me
-
-- 🎓 &nbsp;**Final year Engineering student** passionate about tech and innovation  
-- ⚡ &nbsp;Always experimenting with new technologies and building cool projects  
-- 🔒 &nbsp;Cybersecurity enthusiast — love playing with tools like **Nmap**, **Wireshark**, and **Burp Suite**  
-- 🐧 &nbsp;Linux power user (proud Arch & Kali fan!)  
-- ☁️ &nbsp;DevOps explorer, automating everything I can  
-- 🌐 &nbsp;Currently diving into **Web3** and **Blockchain**  
-- 💡 &nbsp;Open source contributor & lifelong learner  
-- 🚀 &nbsp;On a mission to turn ideas into reality!
 
 ***
 ## 🚀 Tech Stack
